@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606702224465.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "375348952",
+    "id" : "FEC5A94E",
+    "lastKnownWriteTime" : 1607046912,
+    "last_content_update" : 1607046912639,
+    "path" : "C:/Users/Seohyun/Dropbox (Personal)/work/EMIP_Manuscript/suppl/main_slda_m.R",
+    "project_path" : "main_slda_m.R",
+    "properties" : {
+        "cursorPosition" : "16,10",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

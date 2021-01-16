@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607015778753.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2506400960",
+    "id" : "F53B5EED",
+    "lastKnownWriteTime" : 1606682658,
+    "last_content_update" : 1606682658,
+    "path" : "C:/Users/Seohyun/Dropbox (Personal)/work/EMIP_Manuscript/suppl/Cpp/z_step_slda_M.cpp",
+    "project_path" : "Cpp/z_step_slda_M.cpp",
+    "properties" : {
+        "cursorPosition" : "50,9",
+        "scrollLine" : "27"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}
